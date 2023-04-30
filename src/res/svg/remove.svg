@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="95.429291mm"
+   height="95.429626mm"
+   viewBox="0 0 95.429289 95.429624"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (eb90963e84, 2021-10-02)"
+   sodipodi:docname="remove_point.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.75187991"
+     inkscape:cx="127.01496"
+     inkscape:cy="192.18495"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <filter
+       inkscape:label="Blur Double"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Overlays two copies with different blur amounts and modifiable blend and composite"
+       style="color-interpolation-filters:sRGB"
+       id="filter834"
+       x="-0.21218956"
+       y="-0.21218956"
+       width="1.4243791"
+       height="1.4243791">
+      <feGaussianBlur
+         stdDeviation="5"
+         result="fbSourceGraphic"
+         id="feGaussianBlur826" />
+      <feGaussianBlur
+         stdDeviation="0.01"
+         in="SourceGraphic"
+         result="result1"
+         id="feGaussianBlur828" />
+      <feComposite
+         in2="result1"
+         operator="arithmetic"
+         in="fbSourceGraphic"
+         k2="0.5"
+         k3="0.5"
+         result="result2"
+         id="feComposite830"
+         k1="0"
+         k4="0" />
+      <feBlend
+         in2="fbSourceGraphic"
+         mode="normal"
+         result="result3"
+         id="feBlend832" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-68.478877,-117.23062)">
+    <path
+       id="rect1680"
+       style="fill:#ff0000;stroke:#000000;stroke-width:4.46772;stroke-linejoin:round"
+       d="m 87.205594,119.4645 c -0.0242,-0.001 -0.04252,0.004 -0.05483,0.0167 l -16.42164,16.42164 c -0.09847,0.0985 0.245183,0.60074 0.771126,1.12668 l 27.915807,27.91581 -27.915807,27.9158 c -0.525943,0.52595 -0.869601,1.02878 -0.771126,1.12726 l 16.42164,16.42164 c 0.09847,0.0985 0.600732,-0.24576 1.126676,-0.77171 l 27.91581,-27.9158 27.9158,27.9158 c 0.52595,0.52595 1.02878,0.87018 1.12726,0.77171 l 16.42164,-16.42164 c 0.0985,-0.0985 -0.24576,-0.60131 -0.77171,-1.12726 l -27.9158,-27.9158 27.9158,-27.91581 c 0.52595,-0.52594 0.87018,-1.0282 0.77171,-1.12668 L 145.23631,119.4812 c -0.0985,-0.0985 -0.60131,0.24519 -1.12726,0.77113 l -27.9158,27.91581 -27.91581,-27.91581 c -0.460201,-0.4602 -0.902464,-0.78077 -1.071843,-0.78786 z" />
+  </g>
+</svg>

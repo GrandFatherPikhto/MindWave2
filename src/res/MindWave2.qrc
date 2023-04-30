@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="backward">svg/backward.svg</file>
+        <file alias="begin">svg/begin.svg</file>
+        <file alias="end">svg/end.svg</file>
+        <file alias="forward">svg/forward.svg</file>
+        <file alias="play">svg/play.svg</file>
+        <file alias="stop">svg/stop.svg</file>
+        <file alias="pause">svg/pause.svg</file>
+        <file alias="add">svg/add.svg</file>
+        <file alias="remove">svg/remove.svg</file>
+        <file alias="save">svg/save.svg</file>
+        <file alias="quit">svg/quit.svg</file>
+        <file alias="mindwave2">svg/mindwave2.svg</file>
+        <file alias="addproc">svg/addproc.svg</file>
+        <file alias="queue">svg/queue.svg</file>
+        <file alias="process">svg/process.svg</file>
+        <file alias="process_all">svg/process_all.svg</file>
+        <file alias="eeg">png/eeg.png</file>
+        <file alias="scan-start">png/scan-start.png</file>
+        <file alias="scan-stop">png/scan-stop.png</file>
+        <file alias="reset">png/reset.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE TS><TS version="2.1" language="ru_RU">
+    <context>
+        <name>MainWindow</name>
+        <message>
+            <source>&amp;File</source>
+            <translation>Файл</translation>
+        </message>
+        <message>
+            <source>&amp;Quit</source>
+            <translation>Выход</translation>
+        </message>
+    </context>
+    <context>
+        <name>EEGBarWidget</name>
+        <message>
+            <source>EEG Bar Chart</source>
+            <translation>Прямоугольная ЭЭГ Диаграмма</translation>
+        </message>
+    </context>
+    <context>
+        <name>EEGWaveWidget</name>
+        <message>
+            <source>EEG Wave Chart</source>
+            <translation>ЭЭГ График</translation>
+        </message>
+    </context>
+</TS>
